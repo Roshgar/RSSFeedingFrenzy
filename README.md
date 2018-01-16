@@ -1,1 +1,2 @@
 # RSSFeedingFrenzy
+docker test
